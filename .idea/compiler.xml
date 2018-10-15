@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="atcrowd_bean" />
+        <module name="atcrowd_common" />
+        <module name="atcrowd_main" />
+        <module name="atcrowd_manager_api" />
+        <module name="atcrowd_manager_impl" />
+        <module name="atcrowd_potal_api" />
+        <module name="atcrowd_potal_impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="9">
+      <module name="atcrowd_bean" target="9" />
+      <module name="atcrowd_common" target="9" />
+      <module name="atcrowd_main" target="9" />
+      <module name="atcrowd_manager_api" target="9" />
+      <module name="atcrowd_manager_impl" target="9" />
+      <module name="atcrowd_parent" target="9" />
+      <module name="atcrowd_potal_api" target="9" />
+      <module name="atcrowd_potal_impl" target="9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

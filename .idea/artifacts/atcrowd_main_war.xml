@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="atcrowd_main:war">
+    <output-path>$PROJECT_DIR$/atcrowd_main/target</output-path>
+    <root id="archive" name="atcrowd_main-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="atcrowd_main:war exploded" />
+    </root>
+  </artifact>
+</component>

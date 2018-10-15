@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_bean/atcrowd_bean.iml" filepath="$PROJECT_DIR$/atcrowd_bean/atcrowd_bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_common/atcrowd_common.iml" filepath="$PROJECT_DIR$/atcrowd_common/atcrowd_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_main/atcrowd_main.iml" filepath="$PROJECT_DIR$/atcrowd_main/atcrowd_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_manager_api/atcrowd_manager_api.iml" filepath="$PROJECT_DIR$/atcrowd_manager_api/atcrowd_manager_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_manager_impl/atcrowd_manager_impl.iml" filepath="$PROJECT_DIR$/atcrowd_manager_impl/atcrowd_manager_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_parent.iml" filepath="$PROJECT_DIR$/atcrowd_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_potal_api/atcrowd_potal_api.iml" filepath="$PROJECT_DIR$/atcrowd_potal_api/atcrowd_potal_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowd_potal_impl/atcrowd_potal_impl.iml" filepath="$PROJECT_DIR$/atcrowd_potal_impl/atcrowd_potal_impl.iml" />
+    </modules>
+  </component>
+</project>
